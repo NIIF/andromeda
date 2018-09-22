@@ -1,18 +1,19 @@
 # Andromeda
 
 Andromeda malware domain list customized for some common used dns servers, like unbound, bind, power dns, and raw format in text.
-Teh goal of this project block all andromeda activity by fake dns resolve technique.
+Teh goal of this project block  andromeda malware activity by fake dns resolve technique.
 
 
 # Philosophy:
 
-If you choose this way: Don't forget the detection just sometimes enough, the perfect solution the remove procedure.
+If you choose this way: Don't forget the interdiction just sometimes enough, the perfect solution the success remove procedure !
 
-Recomendation: You can use this tool set, for impossible the operation of andromeda malware, but it is not enough, if you use a log analyzer(to analyze your dns queryes), 
+Recomendation: You can use this tool set, for interdiction the operation of andromeda malware, but it is not enough, if you use a log analyzer(to analyze your dns queryes), 
 you have the opportunity to make a perfect solution (as you can read it, is a success remove process).
 
 
 * The simple text format domain list can be find in the text directory 
+
 * * text/andromeda_black_list.txt.
 
 # For unbound users:
