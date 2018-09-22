@@ -12,9 +12,10 @@ Recomendation: You can use this tool set, for impossible the operation of androm
 you have the opportunity to make a perfect solution (as you can read it, is a success remove process).
 
 
-The simple text format domain list can be find in the text directory text/andromeda_black_list.txt.
+* The simple text format domain list can be find in the text directory 
+* * text/andromeda_black_list.txt.
 
-#For unbound users:
+# For unbound users:
 
 Configuration requirements for unbound:
 
@@ -27,7 +28,7 @@ The unbound users can find the full parsed zona file ( unbound/andromeda_black_l
 
 # For bind users:
 
-The bind useres can find an optins file, and all of andromeda zona files.
+The bind useres can find an options file, and all of andromeda zona files.
 Note: If you statisfied the SERVFAIL answer, the zone files are not nesesseries.
 
 * The options file can be find here:
