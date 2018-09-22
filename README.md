@@ -4,7 +4,7 @@ Andromeda malware domain list customized for some common used dns servers, like 
 Teh goal of this project block all andromeda activity by fake dns resolve technique.
 
 
-Philosophy:
+# Philosophy:
 
 If you choose this way: Don't forget the detection just sometimes enough, the perfect solution the remove procedure.
 
@@ -14,7 +14,7 @@ you have the opportunity to make a perfect solution (as you can read it, is a su
 
 The simple text format domain list can be find in the text directory text/andromeda_black_list.txt.
 
-For unbound users:
+#For unbound users:
 
 Configuration requirements for unbound:
 
@@ -25,7 +25,7 @@ The unbound users can find the full parsed zona file ( unbound/andromeda_black_l
   include: "/etc/unbound/black_lists/andromeda_black_list"
 * 3, After you reboot your dns service, you will ready.
 
-For bind users:
+# For bind users:
 
 The bind useres can find an optins file, and all of andromeda zona files.
 Note: If you statisfied the SERVFAIL answer, the zone files are not nesesseries.
@@ -37,7 +37,7 @@ Note: If you statisfied the SERVFAIL answer, the zone files are not nesesseries.
 
 Configuration requirements:
 * 1, Insert the following line into named.conf
-include "/etc/bind/named.conf.andromeda";
+* * include "/etc/bind/named.conf.andromeda";
 * 2, Pull or download bind/named.conf.andromeda file into your /etc/bind directory.
 * 3, Run the following commands.
 * * mkdir /etc/bind/andromeda_zonefiles
