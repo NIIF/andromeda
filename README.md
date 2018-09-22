@@ -17,22 +17,23 @@ text/andromeda_black_list.txt.
 
 Configuration requirements for unbound:
 
-The unbound users can find the full parsed zone file ( unbound/andromeda_black_list ) in the unbound directory.
+The unbound users can be find the full parsed zone file ( unbound/andromeda_black_list ) in the unbound directory.
 
 * You have to pull this file the black_list folder of your unbound install directory(unbound/black_list/).
-* Please insert the following line into unbound.conf. include: "/etc/unbound/black_lists/andromeda_black_list"
+* Please insert the following line into unbound.conf. 
+* * include: "/etc/unbound/black_lists/andromeda_black_list"
 * After you reboot your dns service, you will ready.
 
 # For bind users:
 
-The bind users can find an options file and all of Andromeda zone files. Note: If you satisfied the SERVFAIL answer, the zone files are not necessaries.
+The bind users can be find an options file and all of Andromeda zone files. Note: If you satisfied the SERVFAIL answer, the zone files are not necessaries.
 
 * The options file can be find here:
 * * bind/named.conf.andromeda
 * The zone files can be find here:
 * * bind/andromeda_zonefiles/
 
-Configuratio n requirements:
+Configuration requirements:
 
 * Insert the following line into named.conf
 * * include "/etc/bind/named.conf.andromeda";
