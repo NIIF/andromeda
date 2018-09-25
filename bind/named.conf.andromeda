@@ -1,346 +1,360 @@
 zone "09wb2knotg.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/09wb2knotg.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/09wb2knotg.ru_andromeda.local";
 };
  
 zone "0juwrq36.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/0juwrq36.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/0juwrq36.ru_andromeda.local";
 };
  
 zone "1952w4ddc.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/1952w4ddc.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/1952w4ddc.ru_andromeda.local";
 };
  
 zone "1ffsxvw5df.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/1ffsxvw5df.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/1ffsxvw5df.ru_andromeda.local";
 };
  
 zone "1r69so6w16l.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/1r69so6w16l.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/1r69so6w16l.ru_andromeda.local";
 };
  
 zone "2mvqtuz9w1.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/2mvqtuz9w1.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/2mvqtuz9w1.ru_andromeda.local";
 };
  
 zone "34ksilb9u.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/34ksilb9u.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/34ksilb9u.ru_andromeda.local";
 };
  
 zone "3d3bulnt.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/3d3bulnt.ru_andromeda.local";
-};
- 
-zone "3za2bbcs.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/3za2bbcs.ru_andromeda.local";
-};
- 
-zone "4yuwi9kbmm.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/4yuwi9kbmm.ru_andromeda.local";
-};
-
-zone "5btvmun9.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/5btvmun9.ru_andromeda.local";
-};
- 
-zone "75ulqnwb.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/75ulqnwb.ru_andromeda.local";
-};
- 
-zone "7pqlw1ox3y.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/7pqlw1ox3y.ru_andromeda.local";
-};
- 
-zone "7r3xtzaao.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/7r3xtzaao.ru_andromeda.local";
-};
- 
-zone "8rdel54x.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/8rdel54x.ru_andromeda.local";
-};
- 
-zone "8to8b5hebw.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/8to8b5hebw.ru_andromeda.local";
-};
- 
-zone "99ryv7n54p.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/99ryv7n54p.ru_andromeda.local";
-};
- 
-zone "9a4nqu3m.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/9a4nqu3m.ru_andromeda.local";
-};
- 
-zone "9lnbo2e3.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/9lnbo2e3.ru_andromeda.local";
-};
- 
-zone "a6xwktlad.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/a6xwktlad.ru_andromeda.local";
-};
- 
-zone "and19.amainwrorldnancy1.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/and19.amainwrorldnancy1.com_andromeda.local";
-};
- 
-zone "and30.blabladomdom.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/and30.blabladomdom.com_andromeda.local";
-};
- 
-zone "and31.amainwrorldnancy4.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/and31.amainwrorldnancy4.com_andromeda.local";
-};
- 
-zone "and31.blllaaaaaazblaaa3.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/and31.blllaaaaaazblaaa3.com_andromeda.local";
-};
- 
-zone "b08fyqxb2.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/b08fyqxb2.ru_andromeda.local";
-};
- 
-zone "b1pzjdesv.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/b1pzjdesv.ru_andromeda.local";
-};
- 
-zone "bedcconcertnorth.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/bedcconcertnorth.com_andromeda.local";
-};
- 
-zone "dq42b8b5k.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/dq42b8b5k.ru_andromeda.local";
-};
- 
-zone "ei3rvgfk.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ei3rvgfk.ru_andromeda.local";
-};
- 
-zone "ew87fhzx.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ew87fhzx.ru_andromeda.local";
-};
- 
-zone "fr4vkbdr.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/fr4vkbdr.ru_andromeda.local";
-};
- 
-zone "ftrpwf39.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ftrpwf39.ru_andromeda.local";
-};
- 
-zone "gb254s6o.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/gb254s6o.ru_andromeda.local";
-};
- 
-zone "gd14hp0u6x.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/gd14hp0u6x.ru_andromeda.local";
-};
- 
-zone "gu2tcqt0v.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/gu2tcqt0v.ru_andromeda.local";
-};
- 
-zone "hs3ftpqzlsr.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/hs3ftpqzlsr.ru_andromeda.local";
-};
- 
-zone "i7gd9ultgx.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/i7gd9ultgx.ru_andromeda.local";
-};
- 
-zone "ivni5m1n.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ivni5m1n.ru_andromeda.local";
-};
- 
-zone "izyitdjv.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/izyitdjv.ru_andromeda.local";
-};
- 
-zone "jwd0ylsp.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/jwd0ylsp.ru_andromeda.local";
-};
- 
-zone "kxtyl0gfd.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/kxtyl0gfd.ru_andromeda.local";
-};
- 
-zone "lbitwuh5.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/lbitwuh5.ru_andromeda.local";
-};
- 
-zone "msdw77d2a.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/msdw77d2a.ru_andromeda.local";
-};
- 
-zone "mv4j1vv1.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/mv4j1vv1.ru_andromeda.local";
-};
- 
-zone "mvvyaz09js.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/mvvyaz09js.ru_andromeda.local";
-};
- 
-zone "o0gagh3g.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/o0gagh3g.ru_andromeda.local";
-};
- 
-zone "okeachievesmokes.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/okeachievesmokes.com_andromeda.local";
-};
- 
-zone "oum2pz1xh.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/oum2pz1xh.ru_andromeda.local";
-};
- 
-zone "ovrz52z140.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ovrz52z140.ru_andromeda.local";
-};
- 
-zone "p2xtz27i32.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/p2xtz27i32.ru_andromeda.local";
-};
- 
-zone "qcygky5kvk.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/qcygky5kvk.ru_andromeda.local";
-};
- 
-zone "qhcqvdmp.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/qhcqvdmp.ru_andromeda.local";
-};
- 
-zone "qqt31vsu.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/qqt31vsu.ru_andromeda.local";
-};
- 
-zone "qsqjeuno53.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/qsqjeuno53.ru_andromeda.local";
-};
- 
-zone "qzf163kfd.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/qzf163kfd.ru_andromeda.local";
-};
- 
-zone "st40pwch.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/st40pwch.ru_andromeda.local";
-};
- 
-zone "u6p6odiac.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/u6p6odiac.ru_andromeda.local";
-};
- 
-zone "urusaltech.com" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/urusaltech.com_andromeda.local";
-};
- 
-zone "v2k1j0t1.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/v2k1j0t1.ru_andromeda.local";
-};
- 
-zone "v99ay4wuo.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/v99ay4wuo.ru_andromeda.local";
-};
- 
-zone "w42f4ctqv4.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/w42f4ctqv4.ru_andromeda.local";
-};
- 
-zone "wxrk0otbm.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/wxrk0otbm.ru_andromeda.local";
-};
- 
-zone "ye5cvvufx.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/ye5cvvufx.ru_andromeda.local";
-};
- 
-zone "z4kzt27u8.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/z4kzt27u8.ru_andromeda.local";
-};
- 
-zone "zsgnlc8k.ru" {
-      type master;
-      file "/etc/bind/andromeda_zonefiles/zsgnlc8k.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/3d3bulnt.ru_andromeda.local";
 };
  
 zone "3ye1qp37jba.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/3ye1qp37jba.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/3ye1qp37jba.ru_andromeda.local";
 };
  
-zone "i2rjrv5c.ru" {
+zone "3za2bbcs.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/i2rjrv5c.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/3za2bbcs.ru_andromeda.local";
+};
+ 
+zone "4yuwi9kbmm.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/4yuwi9kbmm.ru_andromeda.local";
+};
+ 
+zone "5btvmun9.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/5btvmun9.ru_andromeda.local";
 };
  
 zone "5dx4t35d.ru" {
       type master;
-      file "/etc/bind/andromeda_zonefiles/5dx4t35d.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/5dx4t35d.ru_andromeda.local";
+};
+ 
+zone "75ulqnwb.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/75ulqnwb.ru_andromeda.local";
+};
+ 
+zone "7pqlw1ox3y.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/7pqlw1ox3y.ru_andromeda.local";
+};
+ 
+zone "7r3xtzaao.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/7r3xtzaao.ru_andromeda.local";
+};
+ 
+zone "8q0usq242dh.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/8q0usq242dh.ru_andromeda.local";
+};
+ 
+zone "8rdel54x.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/8rdel54x.ru_andromeda.local";
+};
+ 
+zone "8to8b5hebw.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/8to8b5hebw.ru_andromeda.local";
+};
+ 
+zone "99ryv7n54p.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/99ryv7n54p.ru_andromeda.local";
+};
+ 
+zone "9a4nqu3m.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/9a4nqu3m.ru_andromeda.local";
+};
+ 
+zone "9lnbo2e3.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/9lnbo2e3.ru_andromeda.local";
+};
+ 
+zone "a6xwktlad.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/a6xwktlad.ru_andromeda.local";
+};
+ 
+zone "and19.amainwrorldnancy1.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/and19.amainwrorldnancy1.com_andromeda.local";
+};
+ 
+zone "and30.blabladomdom.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/and30.blabladomdom.com_andromeda.local";
+};
+ 
+zone "and31.amainwrorldnancy4.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/and31.amainwrorldnancy4.com_andromeda.local";
+};
+ 
+zone "and31.blllaaaaaazblaaa3.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/and31.blllaaaaaazblaaa3.com_andromeda.local";
+};
+ 
+zone "atomictrivia.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/atomictrivia.ru_andromeda.local";
+};
+ 
+zone "b08fyqxb2.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/b08fyqxb2.ru_andromeda.local";
+};
+ 
+zone "b1pzjdesv.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/b1pzjdesv.ru_andromeda.local";
+};
+ 
+zone "bedcconcertnorth.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/bedcconcertnorth.com_andromeda.local";
+};
+ 
+zone "dq42b8b5k.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/dq42b8b5k.ru_andromeda.local";
+};
+ 
+zone "ei3rvgfk.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ei3rvgfk.ru_andromeda.local";
+};
+ 
+zone "ew87fhzx.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ew87fhzx.ru_andromeda.local";
+};
+ 
+zone "fr4vkbdr.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/fr4vkbdr.ru_andromeda.local";
+};
+ 
+zone "ftrpwf39.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ftrpwf39.ru_andromeda.local";
+};
+ 
+zone "gb254s6o.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/gb254s6o.ru_andromeda.local";
+};
+ 
+zone "gd14hp0u6x.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/gd14hp0u6x.ru_andromeda.local";
+};
+ 
+zone "gu2tcqt0v.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/gu2tcqt0v.ru_andromeda.local";
+};
+ 
+zone "hs3ftpqzlsr.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/hs3ftpqzlsr.ru_andromeda.local";
+};
+ 
+zone "i2rjrv5c.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/i2rjrv5c.ru_andromeda.local";
+};
+ 
+zone "i7gd9ultgx.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/i7gd9ultgx.ru_andromeda.local";
+};
+ 
+zone "ivni5m1n.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ivni5m1n.ru_andromeda.local";
+};
+ 
+zone "izyitdjv.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/izyitdjv.ru_andromeda.local";
+};
+ 
+zone "jwd0ylsp.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/jwd0ylsp.ru_andromeda.local";
+};
+ 
+zone "kt00quqt.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/kt00quqt.ru_andromeda.local";
+};
+ 
+zone "kxtyl0gfd.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/kxtyl0gfd.ru_andromeda.local";
+};
+ 
+zone "lbitwuh5.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/lbitwuh5.ru_andromeda.local";
+};
+ 
+zone "msdw77d2a.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/msdw77d2a.ru_andromeda.local";
+};
+ 
+zone "mv4j1vv1.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/mv4j1vv1.ru_andromeda.local";
+};
+ 
+zone "mvvyaz09js.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/mvvyaz09js.ru_andromeda.local";
+};
+ 
+zone "o0gagh3g.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/o0gagh3g.ru_andromeda.local";
+};
+ 
+zone "okeachievesmokes.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/okeachievesmokes.com_andromeda.local";
+};
+ 
+zone "oum2pz1xh.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/oum2pz1xh.ru_andromeda.local";
+};
+ 
+zone "ovrz52z140.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ovrz52z140.ru_andromeda.local";
+};
+ 
+zone "p2xtz27i32.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/p2xtz27i32.ru_andromeda.local";
+};
+ 
+zone "qcygky5kvk.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/qcygky5kvk.ru_andromeda.local";
+};
+ 
+zone "qhcqvdmp.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/qhcqvdmp.ru_andromeda.local";
+};
+ 
+zone "qqt31vsu.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/qqt31vsu.ru_andromeda.local";
+};
+ 
+zone "qsqjeuno53.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/qsqjeuno53.ru_andromeda.local";
+};
+ 
+zone "qzf163kfd.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/qzf163kfd.ru_andromeda.local";
+};
+ 
+zone "st40pwch.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/st40pwch.ru_andromeda.local";
+};
+ 
+zone "u6p6odiac.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/u6p6odiac.ru_andromeda.local";
+};
+ 
+zone "urusaltech.com" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/urusaltech.com_andromeda.local";
+};
+ 
+zone "v2k1j0t1.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/v2k1j0t1.ru_andromeda.local";
+};
+ 
+zone "v99ay4wuo.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/v99ay4wuo.ru_andromeda.local";
+};
+ 
+zone "w42f4ctqv4.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/w42f4ctqv4.ru_andromeda.local";
+};
+ 
+zone "wxrk0otbm.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/wxrk0otbm.ru_andromeda.local";
 };
  
 zone "y02d93ye.ru" {
       type master;
-      file "/etc/bind/andromeda_zone
-files/y02d93ye.ru_andromeda.local";
+      file "/etc/bind/andromeda_zonafiles/y02d93ye.ru_andromeda.local";
+};
+ 
+zone "ye5cvvufx.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ye5cvvufx.ru_andromeda.local";
+};
+ 
+zone "z4kzt27u8.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/z4kzt27u8.ru_andromeda.local";
+};
+ 
+zone "zsgnlc8k.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/zsgnlc8k.ru_andromeda.local";
 };
  
