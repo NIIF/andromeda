@@ -47,6 +47,11 @@ zone "4yuwi9kbmm.ru" {
       type master;
       file "/etc/bind/andromeda_zonefiles/4yuwi9kbmm.ru_andromeda.local";
 };
+
+zone "5btvmun9.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonefiles/5btvmun9.ru_andromeda.local";
+};
  
 zone "75ulqnwb.ru" {
       type master;

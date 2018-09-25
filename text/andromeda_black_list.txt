@@ -1,68 +1,144 @@
-09wb2knotg.ru
-0juwrq36.ru
-1952w4ddc.ru
-1ffsxvw5df.ru
-1r69so6w16l.ru
-2mvqtuz9w1.ru
-34ksilb9u.ru
-3d3bulnt.ru
-3za2bbcs.ru
-4yuwi9kbmm.ru
-75ulqnwb.ru
-7pqlw1ox3y.ru
-7r3xtzaao.ru
-8rdel54x.ru
-8to8b5hebw.ru
-99ryv7n54p.ru
-9a4nqu3m.ru
-9lnbo2e3.ru
-a6xwktlad.ru
-and19.amainwrorldnancy1.com
-and30.blabladomdom.com
-and31.amainwrorldnancy4.com
-and31.blllaaaaaazblaaa3.com
-b08fyqxb2.ru
-b1pzjdesv.ru
-bedcconcertnorth.com
-dq42b8b5k.ru
-ei3rvgfk.ru
-ew87fhzx.ru
-fr4vkbdr.ru
-ftrpwf39.ru
-gb254s6o.ru
-gd14hp0u6x.ru
-gu2tcqt0v.ru
-hs3ftpqzlsr.ru
-i7gd9ultgx.ru
-ivni5m1n.ru
-izyitdjv.ru
-jwd0ylsp.ru
-kxtyl0gfd.ru
-lbitwuh5.ru
-msdw77d2a.ru
-mv4j1vv1.ru
-mvvyaz09js.ru
-o0gagh3g.ru
-okeachievesmokes.com
-oum2pz1xh.ru
-ovrz52z140.ru
-p2xtz27i32.ru
-qcygky5kvk.ru
-qhcqvdmp.ru
-qqt31vsu.ru
-qsqjeuno53.ru
-qzf163kfd.ru
-st40pwch.ru
-u6p6odiac.ru
-urusaltech.com
-v2k1j0t1.ru
-v99ay4wuo.ru
-w42f4ctqv4.ru
-wxrk0otbm.ru
-ye5cvvufx.ru
-z4kzt27u8.ru
-zsgnlc8k.ru 
-3ye1qp37jba.ru
-i2rjrv5c.ru
-5dx4t35d.ru
-y02d93ye.ru
+local-zone: "09wb2knotg.ru" redirect
+local-data: "09wb2knotg.ru A 127.0.0.1"
+local-zone: "0juwrq36.ru" redirect
+local-data: "0juwrq36.ru A 127.0.0.1"
+local-zone: "1952w4ddc.ru" redirect
+local-data: "1952w4ddc.ru A 127.0.0.1"
+local-zone: "1ffsxvw5df.ru" redirect
+local-data: "1ffsxvw5df.ru A 127.0.0.1"
+local-zone: "1r69so6w16l.ru" redirect
+local-data: "1r69so6w16l.ru A 127.0.0.1"
+local-zone: "2mvqtuz9w1.ru" redirect
+local-data: "2mvqtuz9w1.ru A 127.0.0.1"
+local-zone: "34ksilb9u.ru" redirect
+local-data: "34ksilb9u.ru A 127.0.0.1"
+local-zone: "3d3bulnt.ru" redirect
+local-data: "3d3bulnt.ru A 127.0.0.1"
+local-zone: "3ye1qp37jba.ru" redirect
+local-data: "3ye1qp37jba.ru A 127.0.0.1"
+local-zone: "3za2bbcs.ru" redirect
+local-data: "3za2bbcs.ru A 127.0.0.1"
+local-zone: "4yuwi9kbmm.ru" redirect
+local-data: "4yuwi9kbmm.ru A 127.0.0.1"
+local-zone: "5btvmun9.ru" redirect
+local-data: "5btvmun9.ru A 127.0.0.1"
+local-zone: "5dx4t35d.ru" redirect
+local-data: "5dx4t35d.ru A 127.0.0.1"
+local-zone: "75ulqnwb.ru" redirect
+local-data: "75ulqnwb.ru A 127.0.0.1"
+local-zone: "7pqlw1ox3y.ru" redirect
+local-data: "7pqlw1ox3y.ru A 127.0.0.1"
+local-zone: "7r3xtzaao.ru" redirect
+local-data: "7r3xtzaao.ru A 127.0.0.1"
+local-zone: "8q0usq242dh.ru" redirect
+local-data: "8q0usq242dh.ru A 127.0.0.1"
+local-zone: "8rdel54x.ru" redirect
+local-data: "8rdel54x.ru A 127.0.0.1"
+local-zone: "8to8b5hebw.ru" redirect
+local-data: "8to8b5hebw.ru A 127.0.0.1"
+local-zone: "99ryv7n54p.ru" redirect
+local-data: "99ryv7n54p.ru A 127.0.0.1"
+local-zone: "9a4nqu3m.ru" redirect
+local-data: "9a4nqu3m.ru A 127.0.0.1"
+local-zone: "9lnbo2e3.ru" redirect
+local-data: "9lnbo2e3.ru A 127.0.0.1"
+local-zone: "a6xwktlad.ru" redirect
+local-data: "a6xwktlad.ru A 127.0.0.1"
+local-zone: "and19.amainwrorldnancy1.com" redirect
+local-data: "and19.amainwrorldnancy1.com A 127.0.0.1"
+local-zone: "and30.blabladomdom.com" redirect
+local-data: "and30.blabladomdom.com A 127.0.0.1"
+local-zone: "and31.amainwrorldnancy4.com" redirect
+local-data: "and31.amainwrorldnancy4.com A 127.0.0.1"
+local-zone: "and31.blllaaaaaazblaaa3.com" redirect
+local-data: "and31.blllaaaaaazblaaa3.com A 127.0.0.1"
+local-zone: "atomictrivia.ru" redirect
+local-data: "atomictrivia.ru A 127.0.0.1"
+local-zone: "b08fyqxb2.ru" redirect
+local-data: "b08fyqxb2.ru A 127.0.0.1"
+local-zone: "b1pzjdesv.ru" redirect
+local-data: "b1pzjdesv.ru A 127.0.0.1"
+local-zone: "bedcconcertnorth.com" redirect
+local-data: "bedcconcertnorth.com A 127.0.0.1"
+local-zone: "dq42b8b5k.ru" redirect
+local-data: "dq42b8b5k.ru A 127.0.0.1"
+local-zone: "ei3rvgfk.ru" redirect
+local-data: "ei3rvgfk.ru A 127.0.0.1"
+local-zone: "ew87fhzx.ru" redirect
+local-data: "ew87fhzx.ru A 127.0.0.1"
+local-zone: "fr4vkbdr.ru" redirect
+local-data: "fr4vkbdr.ru A 127.0.0.1"
+local-zone: "ftrpwf39.ru" redirect
+local-data: "ftrpwf39.ru A 127.0.0.1"
+local-zone: "gb254s6o.ru" redirect
+local-data: "gb254s6o.ru A 127.0.0.1"
+local-zone: "gd14hp0u6x.ru" redirect
+local-data: "gd14hp0u6x.ru A 127.0.0.1"
+local-zone: "gu2tcqt0v.ru" redirect
+local-data: "gu2tcqt0v.ru A 127.0.0.1"
+local-zone: "hs3ftpqzlsr.ru" redirect
+local-data: "hs3ftpqzlsr.ru A 127.0.0.1"
+local-zone: "i2rjrv5c.ru" redirect
+local-data: "i2rjrv5c.ru A 127.0.0.1"
+local-zone: "i7gd9ultgx.ru" redirect
+local-data: "i7gd9ultgx.ru A 127.0.0.1"
+local-zone: "ivni5m1n.ru" redirect
+local-data: "ivni5m1n.ru A 127.0.0.1"
+local-zone: "izyitdjv.ru" redirect
+local-data: "izyitdjv.ru A 127.0.0.1"
+local-zone: "jwd0ylsp.ru" redirect
+local-data: "jwd0ylsp.ru A 127.0.0.1"
+local-zone: "kt00quqt.ru" redirect
+local-data: "kt00quqt.ru A 127.0.0.1"
+local-zone: "kxtyl0gfd.ru" redirect
+local-data: "kxtyl0gfd.ru A 127.0.0.1"
+local-zone: "lbitwuh5.ru" redirect
+local-data: "lbitwuh5.ru A 127.0.0.1"
+local-zone: "msdw77d2a.ru" redirect
+local-data: "msdw77d2a.ru A 127.0.0.1"
+local-zone: "mv4j1vv1.ru" redirect
+local-data: "mv4j1vv1.ru A 127.0.0.1"
+local-zone: "mvvyaz09js.ru" redirect
+local-data: "mvvyaz09js.ru A 127.0.0.1"
+local-zone: "o0gagh3g.ru" redirect
+local-data: "o0gagh3g.ru A 127.0.0.1"
+local-zone: "okeachievesmokes.com" redirect
+local-data: "okeachievesmokes.com A 127.0.0.1"
+local-zone: "oum2pz1xh.ru" redirect
+local-data: "oum2pz1xh.ru A 127.0.0.1"
+local-zone: "ovrz52z140.ru" redirect
+local-data: "ovrz52z140.ru A 127.0.0.1"
+local-zone: "p2xtz27i32.ru" redirect
+local-data: "p2xtz27i32.ru A 127.0.0.1"
+local-zone: "qcygky5kvk.ru" redirect
+local-data: "qcygky5kvk.ru A 127.0.0.1"
+local-zone: "qhcqvdmp.ru" redirect
+local-data: "qhcqvdmp.ru A 127.0.0.1"
+local-zone: "qqt31vsu.ru" redirect
+local-data: "qqt31vsu.ru A 127.0.0.1"
+local-zone: "qsqjeuno53.ru" redirect
+local-data: "qsqjeuno53.ru A 127.0.0.1"
+local-zone: "qzf163kfd.ru" redirect
+local-data: "qzf163kfd.ru A 127.0.0.1"
+local-zone: "st40pwch.ru" redirect
+local-data: "st40pwch.ru A 127.0.0.1"
+local-zone: "u6p6odiac.ru" redirect
+local-data: "u6p6odiac.ru A 127.0.0.1"
+local-zone: "urusaltech.com" redirect
+local-data: "urusaltech.com A 127.0.0.1"
+local-zone: "v2k1j0t1.ru" redirect
+local-data: "v2k1j0t1.ru A 127.0.0.1"
+local-zone: "v99ay4wuo.ru" redirect
+local-data: "v99ay4wuo.ru A 127.0.0.1"
+local-zone: "w42f4ctqv4.ru" redirect
+local-data: "w42f4ctqv4.ru A 127.0.0.1"
+local-zone: "wxrk0otbm.ru" redirect
+local-data: "wxrk0otbm.ru A 127.0.0.1"
+local-zone: "y02d93ye.ru" redirect
+local-data: "y02d93ye.ru A 127.0.0.1"
+local-zone: "ye5cvvufx.ru" redirect
+local-data: "ye5cvvufx.ru A 127.0.0.1"
+local-zone: "z4kzt27u8.ru" redirect
+local-data: "z4kzt27u8.ru A 127.0.0.1"
+local-zone: "zsgnlc8k.ru" redirect
+local-data: "zsgnlc8k.ru A 127.0.0.1"
