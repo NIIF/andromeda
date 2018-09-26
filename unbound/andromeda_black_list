@@ -60,6 +60,10 @@ local-zone: "b1pzjdesv.ru" redirect
 local-data: "b1pzjdesv.ru A 127.0.0.1"
 local-zone: "bedcconcertnorth.com" redirect
 local-data: "bedcconcertnorth.com A 127.0.0.1"
+local-zone: "differentia.ru" redirect
+local-data: "differentia.ru A 127.0.0.1"
+local-zone: "disorderstatus.ru" redirect
+local-data: "disorderstatus.ru A 127.0.0.1"
 local-zone: "dq42b8b5k.ru" redirect
 local-data: "dq42b8b5k.ru A 127.0.0.1"
 local-zone: "ei3rvgfk.ru" redirect
