@@ -62,8 +62,6 @@ local-zone: "bedcconcertnorth.com" redirect
 local-data: "bedcconcertnorth.com A 127.0.0.1"
 local-zone: "differentia.ru" redirect
 local-data: "differentia.ru A 127.0.0.1"
-local-zone: "differentia.ru" redirect
-local-data: "differentia.ru A 127.0.0.1"
 local-zone: "disorderstatus.ru" redirect
 local-data: "disorderstatus.ru A 127.0.0.1"
 local-zone: "dq42b8b5k.ru" redirect
@@ -110,6 +108,8 @@ local-zone: "mvvyaz09js.ru" redirect
 local-data: "mvvyaz09js.ru A 127.0.0.1"
 local-zone: "o0gagh3g.ru" redirect
 local-data: "o0gagh3g.ru A 127.0.0.1"
+local-zone: "ofytcx99yi.ru" redirect
+local-data: "ofytcx99yi.ru A 127.0.0.1"
 local-zone: "okeachievesmokes.com" redirect
 local-data: "okeachievesmokes.com A 127.0.0.1"
 local-zone: "oum2pz1xh.ru" redirect
