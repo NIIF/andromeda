@@ -96,6 +96,8 @@ local-zone: "koaoglxp.ru" redirect
 local-data: "koaoglxp.ru A 127.0.0.1"
 local-zone: "kt00quqt.ru" redirect
 local-data: "kt00quqt.ru A 127.0.0.1"
+local-zone: "kvamuvsju.ru" redirect
+local-data: "kvamuvsju.ru A 127.0.0.1"
 local-zone: "kxtyl0gfd.ru" redirect
 local-data: "kxtyl0gfd.ru A 127.0.0.1"
 local-zone: "lbitwuh5.ru" redirect
