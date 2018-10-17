@@ -102,6 +102,8 @@ local-zone: "kxtyl0gfd.ru" redirect
 local-data: "kxtyl0gfd.ru A 127.0.0.1"
 local-zone: "lbitwuh5.ru" redirect
 local-data: "lbitwuh5.ru A 127.0.0.1"
+local-zone: "mmj93rnfk.ru" redirect
+local-data: "mmj93rnfk.ru A 127.0.0.1"
 local-zone: "msdw77d2a.ru" redirect
 local-data: "msdw77d2a.ru A 127.0.0.1"
 local-zone: "mv4j1vv1.ru" redirect
@@ -146,6 +148,8 @@ local-zone: "wxrk0otbm.ru" redirect
 local-data: "wxrk0otbm.ru A 127.0.0.1"
 local-zone: "y02d93ye.ru" redirect
 local-data: "y02d93ye.ru A 127.0.0.1"
+local-zone: "ycjqm7ahg.ru" redirect
+local-data: "ycjqm7ahg.ru A 127.0.0.1"
 local-zone: "ye5cvvufx.ru" redirect
 local-data: "ye5cvvufx.ru A 127.0.0.1"
 local-zone: "z4kzt27u8.ru" redirect
