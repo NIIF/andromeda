@@ -134,6 +134,8 @@ local-zone: "qsqjeuno53.ru" redirect
 local-data: "qsqjeuno53.ru A 127.0.0.1"
 local-zone: "qzf163kfd.ru" redirect
 local-data: "qzf163kfd.ru A 127.0.0.1"
+local-zone: "rkphklelf.ru" redirect
+local-data: "rkphklelf.ru A 127.0.0.1"
 local-zone: "st40pwch.ru" redirect
 local-data: "st40pwch.ru A 127.0.0.1"
 local-zone: "u6p6odiac.ru" redirect
