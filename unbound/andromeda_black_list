@@ -106,6 +106,8 @@ local-zone: "mmj93rnfk.ru" redirect
 local-data: "mmj93rnfk.ru A 127.0.0.1"
 local-zone: "msdw77d2a.ru" redirect
 local-data: "msdw77d2a.ru A 127.0.0.1"
+local-zone: "mua7p5u4.ru" redirect
+local-data: "mua7p5u4.ru A 127.0.0.1"
 local-zone: "mv4j1vv1.ru" redirect
 local-data: "mv4j1vv1.ru A 127.0.0.1"
 local-zone: "mvvyaz09js.ru" redirect

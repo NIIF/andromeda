@@ -153,6 +153,16 @@ zone "bedcconcertnorth.com" {
       file "/etc/bind/andromeda_zonafiles/bedcconcertnorth.com_andromeda.local";
 };
  
+zone "differentia.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/differentia.ru_andromeda.local";
+};
+ 
+zone "disorderstatus.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/disorderstatus.ru_andromeda.local";
+};
+ 
 zone "dq42b8b5k.ru" {
       type master;
       file "/etc/bind/andromeda_zonafiles/dq42b8b5k.ru_andromeda.local";
@@ -223,9 +233,19 @@ zone "jwd0ylsp.ru" {
       file "/etc/bind/andromeda_zonafiles/jwd0ylsp.ru_andromeda.local";
 };
  
+zone "koaoglxp.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/koaoglxp.ru_andromeda.local";
+};
+ 
 zone "kt00quqt.ru" {
       type master;
       file "/etc/bind/andromeda_zonafiles/kt00quqt.ru_andromeda.local";
+};
+ 
+zone "kvamuvsju.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/kvamuvsju.ru_andromeda.local";
 };
  
 zone "kxtyl0gfd.ru" {
@@ -236,6 +256,11 @@ zone "kxtyl0gfd.ru" {
 zone "lbitwuh5.ru" {
       type master;
       file "/etc/bind/andromeda_zonafiles/lbitwuh5.ru_andromeda.local";
+};
+ 
+zone "mmj93rnfk.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/mmj93rnfk.ru_andromeda.local";
 };
  
 zone "msdw77d2a.ru" {
@@ -256,6 +281,11 @@ zone "mvvyaz09js.ru" {
 zone "o0gagh3g.ru" {
       type master;
       file "/etc/bind/andromeda_zonafiles/o0gagh3g.ru_andromeda.local";
+};
+ 
+zone "ofytcx99yi.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ofytcx99yi.ru_andromeda.local";
 };
  
 zone "okeachievesmokes.com" {
@@ -341,6 +371,11 @@ zone "wxrk0otbm.ru" {
 zone "y02d93ye.ru" {
       type master;
       file "/etc/bind/andromeda_zonafiles/y02d93ye.ru_andromeda.local";
+};
+ 
+zone "ycjqm7ahg.ru" {
+      type master;
+      file "/etc/bind/andromeda_zonafiles/ycjqm7ahg.ru_andromeda.local";
 };
  
 zone "ye5cvvufx.ru" {
