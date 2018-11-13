@@ -66,6 +66,8 @@ local-zone: "disorderstatus.ru" redirect
 local-data: "disorderstatus.ru A 127.0.0.1"
 local-zone: "dq42b8b5k.ru" redirect
 local-data: "dq42b8b5k.ru A 127.0.0.1"
+local-zone: "dtu6g9hz.ru" redirect
+local-data: "dtu6g9hz.ru A 127.0.0.1"
 local-zone: "ei3rvgfk.ru" redirect
 local-data: "ei3rvgfk.ru A 127.0.0.1"
 local-zone: "ew87fhzx.ru" redirect
@@ -114,6 +116,8 @@ local-zone: "mvvyaz09js.ru" redirect
 local-data: "mvvyaz09js.ru A 127.0.0.1"
 local-zone: "o0gagh3g.ru" redirect
 local-data: "o0gagh3g.ru A 127.0.0.1"
+local-zone: "ofplmh29.ru" redirect
+local-data: "ofplmh29.ru A 127.0.0.1"
 local-zone: "ofytcx99yi.ru" redirect
 local-data: "ofytcx99yi.ru A 127.0.0.1"
 local-zone: "okeachievesmokes.com" redirect
@@ -126,6 +130,8 @@ local-zone: "p2xtz27i32.ru" redirect
 local-data: "p2xtz27i32.ru A 127.0.0.1"
 local-zone: "p9exa36wd.ru" redirect
 local-data: "p9exa36wd.ru A 127.0.0.1"
+local-zone: "pswbfc1ro8.ru" redirect
+local-data: "pswbfc1ro8.ru A 127.0.0.1"
 local-zone: "pswbfc1ro8.ru" redirect
 local-data: "pswbfc1ro8.ru A 127.0.0.1"
 local-zone: "qcygky5kvk.ru" redirect
