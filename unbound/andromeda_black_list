@@ -18,6 +18,8 @@ local-zone: "3ye1qp37jba.ru" redirect
 local-data: "3ye1qp37jba.ru A 127.0.0.1"
 local-zone: "3za2bbcs.ru" redirect
 local-data: "3za2bbcs.ru A 127.0.0.1"
+local-zone: "4eyf0mv6.ru" redirect
+local-data: "4eyf0mv6.ru A 127.0.0.1"
 local-zone: "4yuwi9kbmm.ru" redirect
 local-data: "4yuwi9kbmm.ru A 127.0.0.1"
 local-zone: "5btvmun9.ru" redirect
