@@ -130,6 +130,8 @@ local-zone: "ovrz52z140.ru" redirect
 local-data: "ovrz52z140.ru A 127.0.0.1"
 local-zone: "p2xtz27i32.ru" redirect
 local-data: "p2xtz27i32.ru A 127.0.0.1"
+local-zone: "p7lntiq8.ru" redirect
+local-data: "p7lntiq8.ru A 127.0.0.1"
 local-zone: "p9exa36wd.ru" redirect
 local-data: "p9exa36wd.ru A 127.0.0.1"
 local-zone: "pswbfc1ro8.ru" redirect
