@@ -10,14 +10,27 @@
 import requests
 import os
 import subprocess
-
+import sys
+BlackListDir = '/etc/unbound/black_lists'
 BlackListFile = '/etc/unbound/black_lists/malware_protect'
+BlackListFileBak = '/etc/unbound/black_lists/malware_protect_back'
 urls = ["http://mirror1.malwaredomains.com/files/justdomains",
         "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
         "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
         "http://isc.sans.edu/feeds/suspiciousdomains_Low.txt",
         "http://isc.sans.edu/feeds/suspiciousdomains_Medium.txt",
         "http://isc.sans.edu/feeds/suspiciousdomains_High.txt"]
+if os.path.isdir(BlackListDir):
+    if os.path.isfile(BlackListFile):
+        try:
+            os.rename(BlackListFile, BlackListFileBak)
+        except OSError:
+            sys.exit(1)
+else:
+    try:
+        os.mkdir(BlackListDir)
+    except:
+        sys.exit(1)
 
 if os.path.isfile('malwarelist.txt'):
     os.remove('malwarelist.txt')
@@ -25,10 +38,6 @@ if os.path.isfile('malwarelist.txt'):
 for url in urls:
     try:
         r = requests.get(url)
-        if os.path.isfile(BlackListFile):
-            os.remove(BlackListFile)
-        else:
-            pass
         with open('malwarelist.txt', 'ba') as f:
             f.write(r.content)
     except TimeoutError:
@@ -49,7 +58,10 @@ try:
                     fe.write(local_zone)
                     fe.write(local_data)
                     seen.append(a)
+        if subprocess.check_call("/usr/bin/unbound-checkonf"):
+                subprocess.call(["/usr/sbin/unbound-control", "reload"])
+        else:
+            os.rename(BlackListFileBak,BlackListFile)
 
-        subprocess.call(["/usr/sbin/unbound-control", "reload"])
 except IOError:
     print("File open error")
