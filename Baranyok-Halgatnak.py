@@ -11,9 +11,11 @@ import requests
 import os
 import subprocess
 import sys
+
 BlackListDir = '/etc/unbound/black_lists'
 BlackListFile = '/etc/unbound/black_lists/malware_protect'
 BlackListFileBak = '/etc/unbound/black_lists/malware_protect_back'
+
 urls = ["http://mirror1.malwaredomains.com/files/justdomains",
         "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
         "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
@@ -31,10 +33,8 @@ else:
         os.mkdir(BlackListDir)
     except:
         sys.exit(1)
-
 if os.path.isfile('malwarelist.txt'):
     os.remove('malwarelist.txt')
-
 for url in urls:
     try:
         r = requests.get(url)
@@ -58,10 +58,9 @@ try:
                     fe.write(local_zone)
                     fe.write(local_data)
                     seen.append(a)
-        if subprocess.check_call("/usr/bin/unbound-checkonf"):
-                subprocess.call(["/usr/sbin/unbound-control", "reload"])
+        if subprocess.check_call("/usr/sbin/unbound-checkconf"):
+            subprocess.call(["/usr/sbin/unbound-control", "reload"])
         else:
             os.rename(BlackListFileBak,BlackListFile)
-
 except IOError:
     print("File open error")
